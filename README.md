@@ -61,8 +61,12 @@
 
 直接拷贝下面这句话发给你的 AI 助手：
 
-```
+```shell
+# github
 帮我安装药叮铃智能药盒 Skill，仓库地址：https://github.com/gdyuanpeng/cmcc-yaodingling-skill
+
+#gitee
+帮我安装药叮铃智能药盒 Skill，仓库地址：https://gitee.com/gdyuanpeng/cmcc-yaodingling-skill
 ```
 
 Agent 会自动克隆仓库并安装到对应的 Skill 目录。
