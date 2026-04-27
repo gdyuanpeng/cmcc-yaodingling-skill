@@ -1,7 +1,8 @@
-# 移动爱家药叮铃智能药盒 🤖💊
+# 移动爱家药叮铃智能药盒 AI SKILL
 
 > 让 AI 守护家人用药健康
 
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Skill](https://img.shields.io/badge/AI-Skill-green.svg)]()
 
